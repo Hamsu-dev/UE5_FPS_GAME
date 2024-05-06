@@ -8,6 +8,7 @@ Welcome to my first FPS game developed in Unreal Engine 5! This game was created
 - **Concept**: This game features a simple first-person shooter mechanics set in a dynamic environment.
 
 ## Gameplay Video
+Click on the image below to watch the gameplay video:
 [![Watch the game](https://github.com/Hamsu-dev/UE5_FPS_GAME/blob/main/Screenshots/Screenshot%202024-05-06%20054436.png?raw=true)](https://www.youtube.com/watch?v=7dreJEkzvno)
 
 ## Features
