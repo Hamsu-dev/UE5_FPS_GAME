@@ -8,7 +8,9 @@ Welcome to my first FPS game developed in Unreal Engine 5! This game was created
 - **Concept**: This game features a simple first-person shooter mechanics set in a dynamic environment.
 
 ## Gameplay Video
-[![Watch the game](screenshot/Screenshot 2024-05-06 054436.png)](https://youtu.be/7dreJEkzvno)
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7dreJEkzvno" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Features
 - First-person shooting mechanics
