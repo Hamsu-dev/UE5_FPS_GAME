@@ -9,6 +9,7 @@ Welcome to my first FPS game developed in Unreal Engine 5! This game was created
 
 ## Gameplay Video
 [![Watch the game](https://github.com/Hamsu-dev/UE5_FPS_GAME/blob/main/Screenshots/Screenshot%202024-05-06%20054436.png?raw=true)](https://www.youtube.com/watch?v=7dreJEkzvno)
+[![Watch the game](https://github.com/Hamsu-dev/UE5_FPS_GAME/blob/main/Screenshots/Screenshot_with_Play_Button.png?raw=true)](https://www.youtube.com/watch?v=7dreJEkzvno)
 
 ## Features
 - First-person shooting mechanics
